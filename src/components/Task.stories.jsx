@@ -14,6 +14,12 @@ export const Default = {
             state: 'TASK_INBOX',
         },
     },
+    parameters: {
+        design: {
+            type: 'figma',
+            url: 'https://www.figma.com/design/UHSeHxWPadgaLjizifdzqn/Storybook-Chromatic-Test?node-id=8-5&t=2gMYdtohU4W2rXtB-1'
+        }
+    }
 };
 
 export const Pinned = {
@@ -23,6 +29,12 @@ export const Pinned = {
             state:'TASK_PINNED',
         },
     },
+    parameters: {
+        design: {
+            type: 'figma',
+            url: 'https://www.figma.com/design/UHSeHxWPadgaLjizifdzqn/Storybook-Chromatic-Test?node-id=8-12&t=2gMYdtohU4W2rXtB-1'
+        }
+    }
 };
 
 export const Archive = {
@@ -32,6 +44,12 @@ export const Archive = {
             state:'TASK_ARCHIVED',
         },
     },
+    parameters: {
+        design: {
+            type: 'figma',
+            url: 'https://www.figma.com/design/UHSeHxWPadgaLjizifdzqn/Storybook-Chromatic-Test?node-id=8-13&t=2gMYdtohU4W2rXtB-1'
+        }
+    }
 };
 
 
